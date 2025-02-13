@@ -16,3 +16,8 @@ Hemos creado este nuevo directorio a partir de la rama principal Main
 
 *Deberas tener instalado Java para poder ejecutarlos
 
+#Practica4.1B
+Es una practica basica donde hemos implementado varias funcionalidades
+1. Clase usuario > tenemos los atributos 'nombre', 'apellidos', 'email', que representan las informacion del usuario.
+2. En la clase principal esta ek metodo crearUsuarios donde pedimos las informacion de los mismos
+3. Cuando tenermos los usuarios, el array recorre y muestra la informacion de cada usuario en la consola 
